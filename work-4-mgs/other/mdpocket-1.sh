@@ -6,7 +6,6 @@
 #   2. Generate DCD file and snapshots
 #   3. Run mdpocket pocket analysis
 # ===========================================================
-
 # === 路径与输入设置 ===
 AMBER_CPPTRAJ=/home3/htlin/amber20/bin/cpptraj.MPI
 MDPOCKET_BIN=/home/yxzhang/yxzhang/system/fpocket2/bin/mdpocket
