@@ -1,6 +1,5 @@
 from pymol import cmd
 import os
-
 # ======== 参数 ==========
 rep_file = "allatom_rep.c0.pdb"
 obj_name = "target"   # 用 target 替代 rep，避免保留字问题
