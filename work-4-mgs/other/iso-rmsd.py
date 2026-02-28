@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
 calculates RMSD differences between 2 conformation with different atom names.
-
 @author: JC <yangjincai@nibs.ac.cn>
 """
 # %%
