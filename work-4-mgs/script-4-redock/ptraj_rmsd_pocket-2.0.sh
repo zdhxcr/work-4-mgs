@@ -1,5 +1,4 @@
 #!/bin/sh
-
 # 参数设置
 prmtop=out.prmtop
 pro_resid=1-682
