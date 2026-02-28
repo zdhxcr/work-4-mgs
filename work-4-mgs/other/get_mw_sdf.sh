@@ -1,5 +1,4 @@
 #!/bin/bash
-
 output="all_mw_results.txt"
 > "$output"  # 清空输出文件
 
