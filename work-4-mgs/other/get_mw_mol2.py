@@ -5,7 +5,6 @@ from rdkit.Chem import Descriptors
 mol2_folder = "/home/yxzhang/yxzhang/dock/dock-3/random/split_mol2-random/test" 
 output_txt = "molecular_weights.txt"
 
-
 mol2_files = [f for f in os.listdir(mol2_folder) if f.endswith(".mol2")]
 
 
