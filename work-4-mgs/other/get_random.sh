@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # 目标文件夹
 target_dir="./filtered-1"
 mkdir -p "$target_dir"
