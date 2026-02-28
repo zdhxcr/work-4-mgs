@@ -40,4 +40,3 @@ with open(output_file, 'w') as f:
         f.write(f"{resid}\n")
 
 print(f"已保存 {len(neighbor_resids)} 个残基到 {output_file}")
-
