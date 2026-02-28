@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+
 # === Input files ===
 prmtop=out.prmtop
 reference=out.pdb
