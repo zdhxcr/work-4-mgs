@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-
 ##specify the GPU ID you will use 
 GPUID=0
 
