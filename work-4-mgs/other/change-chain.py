@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from Bio import PDB
 import sys
 
@@ -28,4 +27,5 @@ if __name__ == "__main__":
     input_pdb = sys.argv[1]
     output_pdb = sys.argv[2]
     rename_chains(input_pdb, output_pdb)
+
 
